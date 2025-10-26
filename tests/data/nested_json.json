@@ -1,0 +1,14 @@
+{
+    "user": {
+        "profile": {
+            "name": "张三",
+            "settings": {
+                "theme": "dark",
+                "language": "zh-CN"
+            }
+        }
+    },
+    "metadata": {
+        "version": "1.0.0"
+    }
+}
